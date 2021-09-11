@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-**Void This Chart**
+XXX **Void This Chart** XXX
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,7 +11,7 @@
 | 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
 
-**Void This Chart**
+XXX **Void This Chart** XXX
 
 ## Reporting a Vulnerability
 
